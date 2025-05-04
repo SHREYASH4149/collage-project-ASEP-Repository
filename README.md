@@ -1,4 +1,4 @@
 # collage-project-ASEP-Repository
 This is my first Git repository.
 <br>
-Author- Shreyash Yadav
+Author- Shreyash Yadav(Student)
